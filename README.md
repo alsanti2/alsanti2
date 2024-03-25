@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Aime Santiago. I believe in alot of astrology. With that said, I am proud to say I am a Leo. I practice professional salsa dancing since the age of 13. I am currently studying Graphic Information Technology. I enjoy being creative in many different forms. Electronically (creating business cards) physically (making merchandise look appealing) or even on plain pen and paper (drawing, doodling,etc). 
+
+
 
 <!--
 **alsanti2/alsanti2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/alsanti2/alsanti2/assets/112054592/6059c97f-b063-43f1-93cb-d6dd406ad9db)
